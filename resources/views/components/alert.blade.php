@@ -1,0 +1,3 @@
+<div>
+	{{ $isSelected('f') }}
+</div>
